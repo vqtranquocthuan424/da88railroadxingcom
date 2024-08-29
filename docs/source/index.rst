@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+DA88 - Nhà Cung Cấp Hàng Đầu Về Cổng Trò Chơi, Game Bài Đổi Thưởng, Live Casino và Dịch Vụ Dữ Liệu Thể Thao
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`DA88 <https://railroadxing.com/>`_ là một nhà cung cấp hàng đầu trong ngành, chuyên cung cấp cổng trò chơi, game bài đổi thưởng, live casino, và dịch vụ dữ liệu thể thao. Được cấp phép và quản lý bởi chính phủ Curacao, DA88 hoạt động hợp pháp theo giấy phép cho Nhà Cung Cấp Dịch Vụ Trò Chơi Giải Trí trực tuyến. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+DA88 cam kết phát triển thương hiệu một cách bền vững, luôn đặt trải nghiệm khách hàng lên hàng đầu với sự đầu tư nghiêm túc vào công nghệ và đội ngũ nhân sự. DA88 cung cấp hạ tầng công nghệ tiên tiến, đảm bảo thanh toán an toàn và xử lý nhanh chóng. Các trò chơi của DA88 có hiệu suất mạnh mẽ với đường truyền ổn định, đồng thời đảm bảo tính minh bạch và công bằng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 62 Đằng Hải, Hải An, Hải Phòng, Việt Nam. 
 
-Contents
---------
+Phone: 0898.288.166. 
 
-.. toctree::
+Email: da88railroadxing@gmail.com. 
 
-   usage
-   api
+Website: https://railroadxing.com/
+
+#da88 #nhacaida88 #trangchuda88 #dangkyda88 #linkda88
